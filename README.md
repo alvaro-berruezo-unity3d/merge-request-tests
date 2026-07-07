@@ -1,3 +1,3 @@
 Merge Request Tests
 
-Add a new line with conflicts
+Add a new line
