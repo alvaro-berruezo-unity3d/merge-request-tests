@@ -7,4 +7,6 @@ Deleted PR
 
 Deleted PR 2
 
+New changes after merge
+
 Third MR
